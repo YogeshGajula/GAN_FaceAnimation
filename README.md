@@ -19,13 +19,9 @@ This project is best run on **Google Colab** for faster processing, especially w
 
 ### Steps to Run the Project:
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/Sagar-19143/SadTalker.git
-    cd SadTalker
-    ```
+1. **Copy the code from this repo to google colab**:
 
-2. **Install Dependencies**:
+2. **Run the code  as it prompts**:
     ```bash
     pip install -r requirements.txt
     ```

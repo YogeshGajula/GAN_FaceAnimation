@@ -76,7 +76,8 @@ After running the inference script, the system will generate a video with the fa
 
 Here’s an example of how the generated video looks:
 ```bash
-Result saved at: /path/to/results/generated_video.mp4```
+Result saved at: /path/to/results/generated_video.mp4
+```
 
 ## Visualization
 
